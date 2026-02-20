@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Learning new skills 
-- 🌱 I’m currently learning ... Programming and Webb Development
+- 🌱 I’m currently learning ... Programming and Web Development
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
