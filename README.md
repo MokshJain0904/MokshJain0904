@@ -1,38 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:312e81,70:4c1d95,100:7c3aed&height=230&section=header&text=MOKSH%20JAIN&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Information%20Technology%20%7C%20Software%20Engineering%20%7C%20AI%20%26%20Data&descAlignY=58&descSize=17&descColor=ddd6fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:312e81,70:4c1d95,100:7c3aed&height=230&section=header&text=MOKSH%20JAIN&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=57&descSize=18&descColor=ddd6fe" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Information+Technology+Engineering+Student;Building+Full-Stack+Applications;Exploring+AI%2FML+%26+Generative+AI;Data+Analytics+%26+Business+Intelligence;Learning+DSA+%26+Software+Engineering;Turning+Ideas+Into+Working+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+software+with+purpose;Exploring+AI%2FML+and+intelligent+systems;Developing+full-stack+applications;Strengthening+DSA+%26+software+engineering;Turning+ideas+into+real-world+products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/3rd%20Year-Engineering-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9%2B-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Student-3rd%20Year%20IT-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-9%2B-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://github.com/MokshJain0904">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/moksh-jain-559189330/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/MokshJain0904">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MokshJain0904&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
-
-<img src="https://img.shields.io/github/followers/MokshJain0904?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
-
-<img src="https://img.shields.io/github/stars/MokshJain0904?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=7C3AED"/>
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/STARS-7C3AED?style=flat-square"/>
 
 </div>
 
@@ -40,26 +39,23 @@
 
 ## About
 
-I am a **B.Tech Information Technology student** currently developing my skills across **software engineering, full-stack development, artificial intelligence, data analytics, and problem solving**.
+I am a **B.Tech Information Technology student** currently entering my third year, focused on developing strong foundations in **software engineering, artificial intelligence, full-stack development, data structures, and problem solving**.
 
-I enjoy building practical systems that combine strong programming fundamentals with modern technologies. My projects span **web development, AI-powered applications, data mining, business intelligence, privacy analysis, and backend development**.
+I enjoy understanding how systems work internally and then applying those concepts by building practical projects. My current learning path combines **DSA and core software engineering fundamentals** with modern technologies such as **MERN stack development, AI/ML, LLM applications, data analytics, and automation**.
 
-My current engineering focus is on becoming a well-rounded software developer by strengthening both **core computer science fundamentals** and **real-world development skills**.
+My engineering mindset is centered around:
 
-### Engineering Interests
-
-- **Software Engineering** — clean code, problem solving, DSA, debugging and maintainable architecture
-- **Full Stack Development** — React, JavaScript, Node.js, Express, MongoDB and modern web technologies
-- **Artificial Intelligence** — Generative AI, LLM applications, NLP, AI-powered systems and intelligent automation
-- **Data Analytics** — Python, Pandas, NumPy, data mining, visualization and Power BI
-- **Business Intelligence** — analytical dashboards, feature engineering, data modeling and business insights
-- **Backend Development** — Node.js, APIs, databases and server-side application logic
-- **Cybersecurity & Privacy** — application privacy analysis and security-oriented development
-- **Product Engineering** — turning ideas into complete, usable software products
+* Writing clean, readable and maintainable code
+* Understanding fundamentals rather than relying only on frameworks
+* Building complete applications instead of isolated demonstrations
+* Learning through hands-on projects and experimentation
+* Improving problem-solving and algorithmic thinking
+* Exploring how AI can be integrated into practical software products
+* Developing solutions with usability, scalability, security and performance in mind
 
 ### Open To
 
-`Software Engineering` `Full Stack Development` `AI/ML` `Data Analytics` `Backend Development` `Open Source` `Hackathons` `Internships` `Technical Collaborations`
+`Software Engineering` `Full Stack Development` `AI/ML` `Backend Development` `Open Source` `Hackathons` `Technical Collaborations` `Internships`
 
 ---
 
@@ -68,242 +64,136 @@ My current engineering focus is on becoming a well-rounded software developer by
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
-
-### AI / Data / Analytics
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-`Pandas` `NumPy` `Scikit-learn` `NLTK` `Matplotlib` `Power BI` `Google Colab` `LLMs` `Generative AI`
 
 ### Cloud, DevOps & Tooling
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" />
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Generative AI | Intermediate | LLM-powered applications, prompt engineering and model-based workflows |
-| NLP | Intermediate | Tokenization, preprocessing, TF-IDF, N-grams, sentiment analysis and text mining |
-| RAG Systems | Intermediate | Knowledge retrieval and context-grounded AI workflows |
-| AI Agents | Intermediate | Tool-based reasoning, ReAct-style workflows and automated execution |
-| Machine Learning | Intermediate | Classification, clustering, feature engineering and model evaluation |
-| Data Mining | Advanced Academic | Association rules, Apriori, clustering, classification and text mining |
-| Predictive Analytics | Intermediate | Naive Bayes, Random Forest and predictive winner classification |
-| Topic Modeling | Intermediate | LDA-based semantic topic discovery |
-| Data Analytics | Intermediate | Python-based ETL, EDA, feature engineering and visualization |
-| Business Intelligence | Intermediate | Power BI, DAX, star-schema modeling and analytical dashboards |
-| AI Automation | Intermediate | Combining APIs, AI models and application workflows |
+| Domain           | Proficiency  | Details                                                                                |
+| ---------------- | ------------ | -------------------------------------------------------------------------------------- |
+| Generative AI    | Intermediate | LLM applications, prompting, structured outputs and AI-powered workflows               |
+| NLP              | Intermediate | Text preprocessing, summarization, sentiment analysis and language processing          |
+| RAG Systems      | Intermediate | Knowledge retrieval, context-based question answering and document-grounded generation |
+| AI Agents        | Intermediate | Tool-based reasoning, ReAct-style workflows and automated task execution               |
+| Machine Learning | Foundation   | ML concepts, datasets, preprocessing, model evaluation and experimentation             |
+| Deep Learning    | Foundation   | Neural networks, transformers and modern deep-learning concepts                        |
+| Data Analytics   | Intermediate | Python-based preprocessing, exploratory analysis and visualization                     |
+| AI Automation    | Intermediate | Combining LLMs, APIs and software workflows for intelligent automation                 |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>Generative AI Prompt Intelligence & Analytics System</strong></summary>
+<summary><strong>SwiftCart — MERN E-Commerce Platform</strong></summary>
 
-### Generative AI Prompt Intelligence & Analytics System
+### SwiftCart
 
-An enterprise-style Python desktop analytics application for **Data Mining & Business Intelligence**, designed to analyze LLM prompt-response comparisons, model performance, user feedback and prompt intelligence.
+A full-stack e-commerce application developed using the MERN stack to understand modern web application architecture, frontend development, backend APIs, databases and complete product workflows.
 
-The system combines classical data-mining algorithms, NLP techniques and Generative AI analytics into a unified interactive application.
+| Attribute       | Details                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | MongoDB, Express.js, React.js, Node.js, JavaScript                   |
+| **Scale**       | Full-stack e-commerce application                                    |
+| **Performance** | Component-based frontend and API-driven architecture                 |
+| **Security**    | Authentication, authorization and server-side validation             |
+| **Impact**      | Practical implementation of full-stack software engineering concepts |
+| **Repository**  | [GitHub](https://github.com/)                                        |
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Pandas, NumPy, Scikit-learn, NLTK, MLxtend, Matplotlib, CustomTkinter |
-| **Scale** | Multi-module desktop analytics system |
-| **Performance** | Modular analytics engines with reusable processing pipelines |
-| **Security** | Structured dataset processing and controlled application inputs |
-| **Impact** | Converts LLM benchmark and feedback data into actionable analytical insights |
-| **Repository** | [View Repository](https://github.com/MokshJain0904/Generative-Al-Prompt-Intelligence-Analytics-System) |
+**Professional project scope**
 
-**Core engineering modules**
+* Designed a modern e-commerce frontend using React.
+* Implemented reusable UI components and navigation.
+* Structured the application around frontend, backend and database layers.
+* Developed REST API concepts using Node.js and Express.
+* Used MongoDB for persistent application data.
+* Implemented product-oriented application workflows.
+* Explored authentication and authorization concepts.
+* Focused on maintainable component and API architecture.
 
-- Custom CSV, JSON and TXT dataset ingestion
-- Automated schema detection and column normalization
-- NLP preprocessing and lemmatization
-- TF-IDF keyword intelligence
-- Unigram, bigram and trigram analysis
-- WordCloud visualization
-- LDA topic modeling
-- K-Means clustering
-- PCA dimensionality reduction
-- Naive Bayes classification
-- Random Forest classification
-- Cosine similarity analysis
-- Apriori association-rule mining
-- VADER sentiment analysis
-- LLM model battle analytics
-- Interactive CustomTkinter dashboard
-- Dark/light UI themes
-- Executive-level analytical summaries
-
-**Skills**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `NLTK` `MLxtend` `NLP` `Data Mining` `Machine Learning` `CustomTkinter`
+**Skills:** `React` `Node.js` `Express` `MongoDB` `JavaScript` `REST API` `Full Stack`
 
 </details>
 
 <details>
-<summary><strong>Smart Travel Analytics & Business Intelligence Dashboard</strong></summary>
+<summary><strong>AI & Intelligent Systems Projects</strong></summary>
 
-### Smart Travel Analytics & Business Intelligence Dashboard
+### AI & Intelligent Systems
 
-A complete analytics pipeline analyzing **119,390 hotel reservations** to identify revenue leakage, cancellation behavior, customer segments and booking-channel patterns.
+A collection of academic and experimental projects exploring artificial intelligence concepts including **LLMs, NLP, RAG, reasoning, planning, automation and intelligent agents**.
 
-The project follows a complete analytical lifecycle from **Python ETL → Feature Engineering → Star Schema → Power BI Dashboard**.
+| Attribute       | Details                                                          |
+| --------------- | ---------------------------------------------------------------- |
+| **Stack**       | Python, LLM APIs, NLP libraries, Hugging Face, Google Colab      |
+| **Scale**       | Multiple AI experiments and application-oriented implementations |
+| **Performance** | Structured processing and model-driven workflows                 |
+| **Security**    | Controlled inputs, validation and responsible API usage          |
+| **Impact**      | Practical understanding of modern AI system design               |
+| **Repository**  | [GitHub](https://github.com/)                                    |
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Pandas, NumPy, Matplotlib, Power BI, DAX |
-| **Scale** | 119,390 hotel booking records |
-| **Performance** | ETL pipeline reduced the dataset to 86,956 validated records |
-| **Security** | Structured data processing and controlled analytical workflow |
-| **Impact** | Identifies cancellation risk, revenue leakage and high-value customer segments |
-| **Repository** | [View Repository](https://github.com/MokshJain0904/Smart-Travel-Analytics-BI-Dashboard) |
+**Professional project scope**
 
-**Engineering scope**
+* Implemented LLM-based text processing workflows.
+* Experimented with summarization using transformer models.
+* Worked with RAG concepts and knowledge-grounded responses.
+* Implemented reasoning approaches including forward reasoning and resolution.
+* Explored AI planning using STRIPS and PDDL concepts.
+* Built tool-based AI workflows and ReAct-style reasoning systems.
+* Worked with structured JSON outputs from LLMs.
+* Experimented with NLP preprocessing and sentiment analysis.
 
-- Data cleaning and ETL
-- Missing-value treatment
-- Structural anomaly detection
-- Duplicate removal
-- Feature engineering
-- Revenue and lost-revenue calculation
-- Lead-time segmentation
-- Customer-type classification
-- Room discrepancy analysis
-- Star-schema data modeling
-- Fact and dimension table construction
-- DAX-based Power BI analysis
-- Multi-page business intelligence dashboard
-
-**Key analytical findings**
-
-- Global cancellation rate: **27.3%**
-- Non-refundable deposit bookings showed a **94.6% cancellation rate**
-- Resort Hotel showed higher room-discrepancy rates than City Hotel
-- Couples represented **65.87% of realized revenue**
-
-**Skills**
-
-`Python` `Pandas` `NumPy` `Power BI` `DAX` `ETL` `Data Modeling` `Business Intelligence`
+**Skills:** `Python` `LLMs` `NLP` `RAG` `Transformers` `AI Agents` `Prompt Engineering`
 
 </details>
 
 <details>
-<summary><strong>PrivaGuard — App Privacy Analyzer</strong></summary>
+<summary><strong>Data Analytics & Business Intelligence</strong></summary>
 
-### PrivaGuard — App Privacy Analyzer
+### Data Analytics & BI
 
-A data-driven Android application privacy analyzer that evaluates application permissions using deterministic category baselines and enhances the analysis with **Google Gemini AI**.
+Data analytics projects combining Python preprocessing, exploratory analysis, visualization and Power BI dashboards to convert raw datasets into meaningful insights.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | TypeScript, Next.js, Tailwind CSS, Gemini AI, Node.js |
-| **Scale** | Web-based application privacy analysis system |
-| **Performance** | Deterministic risk scoring combined with targeted AI refinement |
-| **Security** | Permission-focused privacy and risk analysis |
-| **Impact** | Helps users understand application permissions and potential privacy risks |
-| **Repository** | [View Repository](https://github.com/MokshJain0904/app-privacy-analyser) |
-| **Live Demo** | [PrivaGuard](https://privaguard-nine.vercel.app/) |
+| Attribute       | Details                                                    |
+| --------------- | ---------------------------------------------------------- |
+| **Stack**       | Python, Pandas, NumPy, Matplotlib, NLTK, Power BI          |
+| **Scale**       | Dataset preprocessing, analysis and dashboard development  |
+| **Performance** | Structured preprocessing and reusable analytical workflows |
+| **Security**    | Controlled dataset processing                              |
+| **Impact**      | Converts raw data into interpretable business insights     |
+| **Repository**  | [GitHub](https://github.com/)                              |
 
-**Engineering scope**
+**Professional project scope**
 
-- Three-tier permission risk classification
-- Category-specific permission baselines
-- Deterministic privacy-risk scoring
-- Gemini-based secondary risk refinement
-- High-risk permission analysis
-- Detailed AI-generated privacy audits
-- Actionable privacy recommendations
-- Configurable scoring weights
-- Next.js application architecture
-- TypeScript-based development
+* Performed data cleaning and preprocessing using Python.
+* Conducted exploratory data analysis.
+* Worked with structured and textual datasets.
+* Implemented NLP preprocessing techniques.
+* Performed sentiment analysis and text analysis.
+* Created visualizations to communicate patterns.
+* Developed Power BI dashboards.
+* Transformed analytical findings into business-oriented insights.
 
-**Skills**
-
-`TypeScript` `Next.js` `Tailwind CSS` `Node.js` `Gemini AI` `AI Engineering` `Privacy` `Risk Analysis`
-
-</details>
-
-<details>
-<summary><strong>campusDeal — Web Development Project</strong></summary>
-
-### campusDeal
-
-A frontend web-development project built around multiple content categories and pages, demonstrating practical use of HTML and CSS for structuring and styling web interfaces.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS |
-| **Scale** | Multi-page frontend project |
-| **Performance** | Lightweight client-side implementation |
-| **Security** | Static frontend architecture |
-| **Impact** | Practical foundation in web development and UI structure |
-| **Repository** | [View Repository](https://github.com/MokshJain0904/campusDeal) |
-
-**Engineering scope**
-
-- Semantic HTML structure
-- CSS-based styling
-- Multiple webpage layouts
-- Reusable styling concepts
-- Frontend page organization
-
-**Skills**
-
-`HTML` `CSS` `Frontend Development` `Web Design`
-
-</details>
-
-<details>
-<summary><strong>Node.js Bootcamp</strong></summary>
-
-### Node.js Bootcamp
-
-A practical repository documenting hands-on learning and experimentation with **Node.js and JavaScript backend development**.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | JavaScript, Node.js |
-| **Scale** | Backend learning and experimentation repository |
-| **Performance** | Lightweight server-side JavaScript workflows |
-| **Security** | Backend fundamentals and application practices |
-| **Impact** | Builds practical understanding of server-side JavaScript |
-| **Repository** | [View Repository](https://github.com/MokshJain0904/Node-JS-Bootcamp) |
-
-**Engineering scope**
-
-- Node.js fundamentals
-- Server-side JavaScript
-- Backend experimentation
-- JavaScript runtime concepts
-- Practical coding exercises
-
-**Skills**
-
-`JavaScript` `Node.js` `Backend Development`
+**Skills:** `Python` `Pandas` `NumPy` `NLP` `Power BI` `Data Visualization`
 
 </details>
 
@@ -312,30 +202,31 @@ A practical repository documenting hands-on learning and experimentation with **
 ## Experience
 
 ### Software Engineering & AI Development
-**Academic & Independent Projects**  
+
+**Academic & Independent Projects**
 `2024 — Present`
 
-Building practical projects across **software engineering, full-stack development, artificial intelligence, data mining, analytics and backend development**.
+Developing practical projects across software engineering, full-stack development, artificial intelligence and data analytics while strengthening core programming and problem-solving abilities.
 
 **Scope of work**
 
-- Develop software projects using Java, Python, JavaScript and TypeScript.
-- Practice Data Structures and Algorithms using Java.
-- Build full-stack applications using modern JavaScript technologies.
-- Develop frontend applications using React, Next.js and Tailwind CSS.
-- Explore backend development with Node.js and Express.
-- Work with MongoDB and SQL databases.
-- Build AI-powered applications using LLM APIs.
-- Experiment with NLP and machine-learning algorithms.
-- Implement data-mining algorithms including Apriori, clustering and classification.
-- Build ETL and feature-engineering pipelines.
-- Develop Power BI dashboards and business intelligence solutions.
-- Explore application privacy and risk-analysis systems.
-- Use Git and GitHub for version control and project collaboration.
+* Develop applications using Java, Python and JavaScript.
+* Practice Data Structures and Algorithms using Java.
+* Build full-stack applications using the MERN stack.
+* Design frontend interfaces using React and Tailwind CSS.
+* Develop backend services and REST APIs.
+* Work with MongoDB and SQL databases.
+* Experiment with AI and LLM-based applications.
+* Build NLP and text-processing pipelines.
+* Explore RAG architectures and AI agents.
+* Develop data-processing workflows using Python.
+* Create dashboards and analytical reports using Power BI.
+* Use Git and GitHub for version control.
+* Apply software engineering principles to academic and personal projects.
 
 **Skills**
 
-`Java` `Python` `C` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `AI/ML` `NLP` `Power BI`
+`Java` `Python` `C` `JavaScript` `React` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `AI/ML` `NLP` `Power BI`
 
 ---
 
@@ -343,16 +234,15 @@ Building practical projects across **software engineering, full-stack developmen
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎓 Academic Performance | Maintained a **9+ CGPA** in B.Tech Information Technology |
-| 🤖 Generative AI | Built a multi-module **Generative AI Prompt Intelligence & Analytics System** |
-| 📊 Data Analytics | Built a complete hotel-booking analytics pipeline covering **119,390 records** |
-| 💼 Business Intelligence | Designed a Power BI dashboard using ETL, feature engineering and star-schema modeling |
-| 🔐 Privacy Engineering | Developed **PrivaGuard**, an AI-assisted application privacy analyzer |
-| 🌐 Full Stack Development | Building practical frontend and backend applications using modern web technologies |
-| 🧠 Data Mining | Implemented NLP, clustering, classification, topic modeling and association-rule mining |
-| 🚀 Technical Growth | Continuously expanding skills across software engineering, AI, analytics and web development |
+| Recognition                | Details                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| 🎓 Academic Performance    | Maintained a **9+ CGPA** in B.Tech Information Technology                       |
+| 💻 Software Development    | Built projects across full-stack development, AI/ML and data analytics          |
+| 🤖 Artificial Intelligence | Hands-on experimentation with LLMs, NLP, RAG, reasoning and intelligent systems |
+| 🌐 Full Stack Development  | Developing practical MERN-stack applications                                    |
+| 📊 Data Analytics          | Worked with Python-based preprocessing and Power BI visualization               |
+| 🧠 Problem Solving         | Actively strengthening Data Structures & Algorithms using Java                  |
+| 🚀 Technical Growth        | Continuously exploring software engineering, AI and modern technology domains   |
 
 </div>
 
@@ -414,13 +304,13 @@ Building practical projects across **software engineering, full-stack developmen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MokshJain0904&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MokshJain0904&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshJain0904&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
 
 </div>
 
@@ -430,7 +320,7 @@ Building practical projects across **software engineering, full-stack developmen
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MokshJain0904&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -440,7 +330,7 @@ Building practical projects across **software engineering, full-stack developmen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MokshJain0904&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -450,7 +340,7 @@ Building practical projects across **software engineering, full-stack developmen
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -462,35 +352,69 @@ Building practical projects across **software engineering, full-stack developmen
 Learning:
   - Data Structures & Algorithms
   - Java
-  - Backend Development
-  - Software Engineering
+  - Backend Engineering
+  - Software Engineering Fundamentals
+  - AI / ML
   - Generative AI
-  - Machine Learning
   - Full Stack Development
-  - System Design Fundamentals
+  - Cloud & DevOps
 
 Building:
   - MERN Stack Applications
   - AI-powered applications
-  - Data Mining systems
-  - Business Intelligence dashboards
-  - Privacy-focused applications
-  - Backend projects with Node.js
+  - NLP and LLM experiments
+  - Data Analytics projects
+  - Practical software engineering projects
 
 Exploring:
   - RAG architectures
   - AI Agents
   - LLM application engineering
+  - System Design
   - Cloud Engineering
   - DevOps
   - Cybersecurity
-  - Scalable Software Architecture
 
 Open To:
   - Software Engineering Opportunities
   - Full Stack Development
   - AI / ML Collaborations
-  - Data Analytics Projects
   - Open Source Contributions
   - Hackathons
-  - Technical Internships
+  - Technical Projects
+  - Internships
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:4c1d95,70:312e81,100:1e1b4b&height=130&section=footer&animation=twinkling" width="100%"/>
+
+### “Learn deeply. Build consistently. Engineer with purpose.”
+
+</div>
