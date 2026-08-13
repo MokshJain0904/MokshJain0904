@@ -1,38 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:4c1d95,75:6d28d9,100:1e1b4b&height=230&section=header&text=ADITYA%20BHANUSHALI&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=ddd6fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:312e81,70:4c1d95,100:7c3aed&height=230&section=header&text=MOKSH%20JAIN&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=57&descSize=18&descColor=ddd6fe" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+production-minded+software;Exploring+AI%2FML+and+intelligent+systems;Engineering+full-stack+applications;Learning+DSA+%26+modern+software+architecture;Turning+ideas+into+usable+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+software+with+purpose;Exploring+AI%2FML+and+intelligent+systems;Developing+full-stack+applications;Strengthening+DSA+%26+software+engineering;Turning+ideas+into+real-world+products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Engineering-Software%20%26%20AI-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9%2B-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Student-3rd%20Year%20IT-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-9%2B-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://github.com/aditya-bhanushali">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://in.linkedin.com/in/aditya-bhanushali-008a1b325">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:aditya.bhanushali.dev@gmail.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/aditya-bhanushali">
-<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aditya-bhanushali&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/aditya-bhanushali?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
-<img src="https://img.shields.io/github/stars/aditya-bhanushali?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=7C3AED"/>
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/STARS-7C3AED?style=flat-square"/>
 
 </div>
 
@@ -40,22 +39,23 @@
 
 ## About
 
-I am an Information Technology engineering student focused on building a strong foundation in **software engineering, artificial intelligence, full-stack development, and problem solving**.
+I am a **B.Tech Information Technology student** currently entering my third year, focused on developing strong foundations in **software engineering, artificial intelligence, full-stack development, data structures, and problem solving**.
 
-My approach to engineering is product-oriented: understand the problem, design a maintainable solution, build it end-to-end, and continuously improve reliability, usability, performance, and security.
+I enjoy understanding how systems work internally and then applying those concepts by building practical projects. My current learning path combines **DSA and core software engineering fundamentals** with modern technologies such as **MERN stack development, AI/ML, LLM applications, data analytics, and automation**.
 
-My current technical interests span:
+My engineering mindset is centered around:
 
-* **Software Engineering** — clean code, data structures, algorithms, architecture, APIs and scalable application design
-* **AI / ML** — NLP, LLM applications, RAG systems, intelligent automation and applied machine learning
-* **Full Stack Development** — React, JavaScript, Node.js, Express, MongoDB and modern web application architecture
-* **Backend Engineering** — REST APIs, authentication, databases, asynchronous programming and server-side systems
-* **Data & Analytics** — Python, data preprocessing, visualization, Power BI and analytical workflows
-* **Product Engineering** — transforming academic concepts and real-world problems into usable software
+* Writing clean, readable and maintainable code
+* Understanding fundamentals rather than relying only on frameworks
+* Building complete applications instead of isolated demonstrations
+* Learning through hands-on projects and experimentation
+* Improving problem-solving and algorithmic thinking
+* Exploring how AI can be integrated into practical software products
+* Developing solutions with usability, scalability, security and performance in mind
 
 ### Open To
 
-`Software Engineering` `Full Stack Development` `AI/ML` `Backend Engineering` `Open Source` `Hackathons` `Technical Collaborations`
+`Software Engineering` `Full Stack Development` `AI/ML` `Backend Development` `Open Source` `Hackathons` `Technical Collaborations` `Internships`
 
 ---
 
@@ -70,7 +70,7 @@ My current technical interests span:
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### Backend & Databases
@@ -89,109 +89,111 @@ My current technical interests span:
 
 ## AI / ML Expertise
 
-| Domain           | Proficiency  | Details                                                                                 |
-| ---------------- | ------------ | --------------------------------------------------------------------------------------- |
-| Generative AI    | Intermediate | LLM applications, prompting, structured outputs and AI-assisted workflows               |
-| NLP              | Intermediate | Text preprocessing, summarization, sentiment analysis and language-processing pipelines |
-| RAG Systems      | Intermediate | Knowledge retrieval, context injection and question-answering workflows                 |
-| Machine Learning | Intermediate | Data preparation, model concepts, evaluation and applied ML workflows                   |
-| AI Agents        | Intermediate | Tool-based reasoning, ReAct-style workflows and automated problem solving               |
-| Deep Learning    | Foundation   | Neural-network concepts and transformer-based architectures                             |
-| Data Analytics   | Intermediate | Python preprocessing, exploratory analysis, visualization and dashboards                |
-| AI Automation    | Intermediate | Combining APIs, LLMs and software workflows to automate repetitive tasks                |
+| Domain           | Proficiency  | Details                                                                                |
+| ---------------- | ------------ | -------------------------------------------------------------------------------------- |
+| Generative AI    | Intermediate | LLM applications, prompting, structured outputs and AI-powered workflows               |
+| NLP              | Intermediate | Text preprocessing, summarization, sentiment analysis and language processing          |
+| RAG Systems      | Intermediate | Knowledge retrieval, context-based question answering and document-grounded generation |
+| AI Agents        | Intermediate | Tool-based reasoning, ReAct-style workflows and automated task execution               |
+| Machine Learning | Foundation   | ML concepts, datasets, preprocessing, model evaluation and experimentation             |
+| Deep Learning    | Foundation   | Neural networks, transformers and modern deep-learning concepts                        |
+| Data Analytics   | Intermediate | Python-based preprocessing, exploratory analysis and visualization                     |
+| AI Automation    | Intermediate | Combining LLMs, APIs and software workflows for intelligent automation                 |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>AI Deadline Assistant</strong></summary>
-
-### AI Deadline Assistant
-
-An intelligent academic productivity system designed to extract assignment deadlines from communication sources and convert unstructured information into structured calendar events.
-
-| Attribute       | Implementation                                                                |
-| --------------- | ----------------------------------------------------------------------------- |
-| **Stack**       | React.js, JavaScript, Tailwind CSS, Python, Gemini API, Google Calendar API   |
-| **Scale**       | Multi-source deadline ingestion and structured processing pipeline            |
-| **Performance** | Structured JSON extraction, validation and deduplication                      |
-| **Security**    | API-based integrations, controlled processing and state validation            |
-| **Impact**      | Reduces manual deadline tracking and calendar-entry effort                    |
-| **Repository**  | [View Repository](https://github.com/aditya-bhanushali/AI-Deadline-Assitant-) |
-
-**Engineering scope**
-
-* Designed an ingestion workflow for email, Microsoft Teams and manual text input.
-* Used LLM-based structured extraction to identify assignment names, dates and contextual information.
-* Added JSON-schema validation to reduce malformed AI outputs.
-* Implemented temporal resolution for converting relative dates into usable deadlines.
-* Added urgency scoring based on deadline proximity and contextual factors.
-* Implemented deduplication and state persistence to avoid duplicate calendar events.
-* Integrated Google Calendar for automated event creation.
-* Built a React-based dashboard for viewing and managing extracted deadlines.
-
-**Engineering focus:** `AI Integration` `Automation` `APIs` `React` `Data Validation` `System Design`
-
-</details>
-
-<details>
 <summary><strong>SwiftCart — MERN E-Commerce Platform</strong></summary>
 
 ### SwiftCart
 
-A full-stack e-commerce application being developed around a modern MERN architecture, with emphasis on reusable UI, API-driven architecture, authentication, product management and scalable application structure.
+A full-stack e-commerce application developed using the MERN stack to understand modern web application architecture, frontend development, backend APIs, databases and complete product workflows.
 
-| Attribute       | Implementation                                                         |
-| --------------- | ---------------------------------------------------------------------- |
-| **Stack**       | MongoDB, Express.js, React.js, Node.js, JavaScript                     |
-| **Scale**       | Full-stack commerce workflow                                           |
-| **Performance** | Component-based frontend and API-oriented backend                      |
-| **Security**    | Authentication, authorization and server-side validation               |
-| **Impact**      | End-to-end practical implementation of modern web engineering concepts |
-| **Repository**  | [View GitHub Profile](https://github.com/aditya-bhanushali)            |
+| Attribute       | Details                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | MongoDB, Express.js, React.js, Node.js, JavaScript                   |
+| **Scale**       | Full-stack e-commerce application                                    |
+| **Performance** | Component-based frontend and API-driven architecture                 |
+| **Security**    | Authentication, authorization and server-side validation             |
+| **Impact**      | Practical implementation of full-stack software engineering concepts |
+| **Repository**  | [GitHub](https://github.com/)                                        |
 
-**Engineering scope**
+**Professional project scope**
 
-* Responsive React-based frontend architecture.
-* Reusable navigation and UI components.
-* Product-oriented application structure.
-* REST API integration between frontend and backend.
-* MongoDB-based data persistence.
-* Authentication and authorization workflows.
-* Cart and order-management concepts.
-* Focus on maintainable component and API design.
+* Designed a modern e-commerce frontend using React.
+* Implemented reusable UI components and navigation.
+* Structured the application around frontend, backend and database layers.
+* Developed REST API concepts using Node.js and Express.
+* Used MongoDB for persistent application data.
+* Implemented product-oriented application workflows.
+* Explored authentication and authorization concepts.
+* Focused on maintainable component and API architecture.
 
-**Engineering focus:** `MERN` `REST APIs` `React` `MongoDB` `Authentication` `Product Engineering`
+**Skills:** `React` `Node.js` `Express` `MongoDB` `JavaScript` `REST API` `Full Stack`
 
 </details>
 
 <details>
-<summary><strong>Data Analytics & Business Intelligence Projects</strong></summary>
+<summary><strong>AI & Intelligent Systems Projects</strong></summary>
+
+### AI & Intelligent Systems
+
+A collection of academic and experimental projects exploring artificial intelligence concepts including **LLMs, NLP, RAG, reasoning, planning, automation and intelligent agents**.
+
+| Attribute       | Details                                                          |
+| --------------- | ---------------------------------------------------------------- |
+| **Stack**       | Python, LLM APIs, NLP libraries, Hugging Face, Google Colab      |
+| **Scale**       | Multiple AI experiments and application-oriented implementations |
+| **Performance** | Structured processing and model-driven workflows                 |
+| **Security**    | Controlled inputs, validation and responsible API usage          |
+| **Impact**      | Practical understanding of modern AI system design               |
+| **Repository**  | [GitHub](https://github.com/)                                    |
+
+**Professional project scope**
+
+* Implemented LLM-based text processing workflows.
+* Experimented with summarization using transformer models.
+* Worked with RAG concepts and knowledge-grounded responses.
+* Implemented reasoning approaches including forward reasoning and resolution.
+* Explored AI planning using STRIPS and PDDL concepts.
+* Built tool-based AI workflows and ReAct-style reasoning systems.
+* Worked with structured JSON outputs from LLMs.
+* Experimented with NLP preprocessing and sentiment analysis.
+
+**Skills:** `Python` `LLMs` `NLP` `RAG` `Transformers` `AI Agents` `Prompt Engineering`
+
+</details>
+
+<details>
+<summary><strong>Data Analytics & Business Intelligence</strong></summary>
 
 ### Data Analytics & BI
 
-A collection of analytical projects combining Python-based preprocessing with business intelligence dashboards and data-driven interpretation.
+Data analytics projects combining Python preprocessing, exploratory analysis, visualization and Power BI dashboards to convert raw datasets into meaningful insights.
 
-| Attribute       | Implementation                                              |
-| --------------- | ----------------------------------------------------------- |
-| **Stack**       | Python, Pandas, NumPy, Matplotlib, NLTK, Power BI           |
-| **Scale**       | Dataset preprocessing and dashboard-oriented analysis       |
-| **Performance** | Structured preprocessing and reusable analytical workflows  |
-| **Security**    | Local data processing and controlled dataset handling       |
-| **Impact**      | Converts raw datasets into actionable analytical insights   |
-| **Repository**  | [View GitHub Profile](https://github.com/aditya-bhanushali) |
+| Attribute       | Details                                                    |
+| --------------- | ---------------------------------------------------------- |
+| **Stack**       | Python, Pandas, NumPy, Matplotlib, NLTK, Power BI          |
+| **Scale**       | Dataset preprocessing, analysis and dashboard development  |
+| **Performance** | Structured preprocessing and reusable analytical workflows |
+| **Security**    | Controlled dataset processing                              |
+| **Impact**      | Converts raw data into interpretable business insights     |
+| **Repository**  | [GitHub](https://github.com/)                              |
 
-**Engineering scope**
+**Professional project scope**
 
-* Data cleaning and preprocessing using Python.
-* Exploratory data analysis.
-* Text processing and sentiment analysis.
-* Statistical and visual interpretation.
-* Power BI dashboard development.
-* Transformation of raw datasets into business-oriented insights.
+* Performed data cleaning and preprocessing using Python.
+* Conducted exploratory data analysis.
+* Worked with structured and textual datasets.
+* Implemented NLP preprocessing techniques.
+* Performed sentiment analysis and text analysis.
+* Created visualizations to communicate patterns.
+* Developed Power BI dashboards.
+* Transformed analytical findings into business-oriented insights.
 
-**Engineering focus:** `Python` `Pandas` `NLP` `Power BI` `Data Visualization`
+**Skills:** `Python` `Pandas` `NumPy` `NLP` `Power BI` `Data Visualization`
 
 </details>
 
@@ -199,28 +201,32 @@ A collection of analytical projects combining Python-based preprocessing with bu
 
 ## Experience
 
-### Software Engineering & AI Projects
+### Software Engineering & AI Development
 
-**Independent / Academic Engineering**
+**Academic & Independent Projects**
 `2024 — Present`
 
-Developing software projects across full-stack engineering, artificial intelligence, data analytics and automation while building practical understanding of software development lifecycle principles.
+Developing practical projects across software engineering, full-stack development, artificial intelligence and data analytics while strengthening core programming and problem-solving abilities.
 
 **Scope of work**
 
-* Design and implement full-stack applications using modern JavaScript technologies.
-* Develop REST APIs and connect frontend applications with backend services.
-* Work with relational and NoSQL databases.
-* Build AI-powered workflows using LLM APIs and structured outputs.
-* Experiment with RAG, NLP, reasoning and automation systems.
-* Develop data-processing and analytics workflows using Python.
-* Apply Git and GitHub-based version control.
-* Practice DSA and problem solving using Java and Python.
-* Focus on maintainability, modularity, debugging and engineering fundamentals.
+* Develop applications using Java, Python and JavaScript.
+* Practice Data Structures and Algorithms using Java.
+* Build full-stack applications using the MERN stack.
+* Design frontend interfaces using React and Tailwind CSS.
+* Develop backend services and REST APIs.
+* Work with MongoDB and SQL databases.
+* Experiment with AI and LLM-based applications.
+* Build NLP and text-processing pipelines.
+* Explore RAG architectures and AI agents.
+* Develop data-processing workflows using Python.
+* Create dashboards and analytical reports using Power BI.
+* Use Git and GitHub for version control.
+* Apply software engineering principles to academic and personal projects.
 
 **Skills**
 
-`Java` `Python` `JavaScript` `React` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `AI/ML` `NLP` `REST APIs`
+`Java` `Python` `C` `JavaScript` `React` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `AI/ML` `NLP` `Power BI`
 
 ---
 
@@ -228,14 +234,15 @@ Developing software projects across full-stack engineering, artificial intellige
 
 <div align="center">
 
-| Recognition                | Details                                                                                    |
-| -------------------------- | ------------------------------------------------------------------------------------------ |
-| 🏆 Competitive Programming | **1st Place — COD Season 5 Competitive Coding Contest**                                    |
-| 🚀 Hackathons              | Participated in multiple technical hackathons and innovation-focused competitions          |
-| 🔐 Cybersecurity           | Participated in cybersecurity and CTF-oriented technical activities                        |
-| 🤖 AI Projects             | Built applied AI systems involving LLMs, automation and intelligent information extraction |
-| 📊 Data Analytics          | Developed analytical workflows combining Python preprocessing and BI visualization         |
-| 🧠 Technical Learning      | Continuous hands-on work across software engineering, AI/ML and full-stack development     |
+| Recognition                | Details                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| 🎓 Academic Performance    | Maintained a **9+ CGPA** in B.Tech Information Technology                       |
+| 💻 Software Development    | Built projects across full-stack development, AI/ML and data analytics          |
+| 🤖 Artificial Intelligence | Hands-on experimentation with LLMs, NLP, RAG, reasoning and intelligent systems |
+| 🌐 Full Stack Development  | Developing practical MERN-stack applications                                    |
+| 📊 Data Analytics          | Worked with Python-based preprocessing and Power BI visualization               |
+| 🧠 Problem Solving         | Actively strengthening Data Structures & Algorithms using Java                  |
+| 🚀 Technical Growth        | Continuously exploring software engineering, AI and modern technology domains   |
 
 </div>
 
@@ -258,13 +265,13 @@ Developing software projects across full-stack engineering, artificial intellige
 ### NPTEL
 
 <a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Certifications-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Certification-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 
 ### Cisco
 
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
-<img src="https://img.shields.io/badge/Cisco-Learning%20%26%20Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </a>
 
 ---
@@ -297,13 +304,13 @@ Developing software projects across full-stack engineering, artificial intellige
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-bhanushali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhanushali&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhanushali&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
 
 </div>
 
@@ -313,7 +320,7 @@ Developing software projects across full-stack engineering, artificial intellige
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-bhanushali&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -323,7 +330,7 @@ Developing software projects across full-stack engineering, artificial intellige
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-bhanushali&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -333,7 +340,7 @@ Developing software projects across full-stack engineering, artificial intellige
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aditya-bhanushali/aditya-bhanushali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -344,26 +351,29 @@ Developing software projects across full-stack engineering, artificial intellige
 ```yaml
 Learning:
   - Data Structures & Algorithms
-  - Advanced Java
+  - Java
   - Backend Engineering
-  - System Design Fundamentals
+  - Software Engineering Fundamentals
   - AI / ML
   - Generative AI
+  - Full Stack Development
   - Cloud & DevOps
 
 Building:
   - MERN Stack Applications
-  - AI-powered automation systems
-  - Intelligent information extraction workflows
-  - Data analytics projects
+  - AI-powered applications
+  - NLP and LLM experiments
+  - Data Analytics projects
+  - Practical software engineering projects
 
 Exploring:
   - RAG architectures
   - AI Agents
   - LLM application engineering
-  - Software architecture
-  - Cloud engineering
-  - DevSecOps
+  - System Design
+  - Cloud Engineering
+  - DevOps
+  - Cybersecurity
 
 Open To:
   - Software Engineering Opportunities
@@ -372,6 +382,7 @@ Open To:
   - Open Source Contributions
   - Hackathons
   - Technical Projects
+  - Internships
 ```
 
 ---
@@ -380,19 +391,19 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:aditya.bhanushali.dev@gmail.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://in.linkedin.com/in/aditya-bhanushali-008a1b325">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aditya-bhanushali">
+<a href="https://github.com/">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aditya-bhanushali">
+<a href="https://github.com/">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -402,8 +413,8 @@ Open To:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:312e81,75:4c1d95,100:6d28d9&height=130&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:4c1d95,70:312e81,100:1e1b4b&height=130&section=footer&animation=twinkling" width="100%"/>
 
-### “Build with intent. Engineer with discipline. Ship with impact.”
+### “Learn deeply. Build consistently. Engineer with purpose.”
 
 </div>
