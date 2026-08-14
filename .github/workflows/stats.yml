@@ -1,41 +1,31 @@
-name: Update GitHub Stats
+name: Update GitHub Statistics
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  stats:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate GitHub statistics
+        uses: cicirello/user-statistician@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&rank_icon=github
-          path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117
-          path: profile/top-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit generated cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
-          git push
+          image-file: profile/github-stats.svg
+          include-title: true
+          custom-title: "Moksh Jain's GitHub Statistics"
+          colors: "0D1117 312E81 8B5CF6 A78BFA C4B5FD"
+          border-radius: 6
+          show-border: true
+          max-languages: 8
+          commit-and-push: true
