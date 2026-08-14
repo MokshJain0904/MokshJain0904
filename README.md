@@ -417,16 +417,15 @@ Developing practical projects across software engineering, full-stack developmen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MokshJain0904&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="Moksh Jain GitHub Statistics"/>
+<img src="./profile/github-stats.svg" height="180" alt="Moksh Jain GitHub Statistics"/>
 
-<img src="https://streak-stats.demolab.com/?user=MokshJain0904&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180" alt="Moksh Jain GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=MokshJain0904&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180" alt="Moksh Jain GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshJain0904&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180" alt="Moksh Jain Top Languages"/>
+<img src="./profile/top-languages.svg" height="180" alt="Moksh Jain Top Languages"/>
 
 </div>
-
 ---
 
 ## GitHub Trophies
