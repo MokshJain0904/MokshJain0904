@@ -338,13 +338,30 @@ Developing practical projects across software engineering, full-stack developmen
 
 ## Contribution Snake
 
+## Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+
+</picture>
 
 </div>
-
----
 
 ## Current Focus
 
