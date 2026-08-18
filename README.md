@@ -1,50 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:312e81,70:4c1d95,100:7c3aed&height=210&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:312e81,70:4c1d95,100:7c3aed&height=210&section=header&text=MOKSH%20JAIN&fontSize=42&fontColor=E9D5FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/MokshJain0904"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=MOKSH+JAIN" /></a>
+
+<a href="https://github.com/MokshJain0904"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&height=50&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack" /></a>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=MOKSH+JAIN">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=MOKSH+JAIN" alt="Moksh Jain"/>
-</a>
-
-<br/>
-
-<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&height=50&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&height=50&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack" alt="Software Engineering AI ML Full Stack"/>
-</a>
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Student-3rd%20Year%20IT-4C1D95?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-9%2B-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Student-3rd%20Year%20IT-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-9%2B-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<a href="https://github.com/MokshJain0904"><img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/moksh-jain-559189330/"><img src="https://img.shields.io/badge/LinkedIn-Moksh%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mokshjain0904@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/MokshJain0904"><img src="https://img.shields.io/badge/GitHub-MokshJain0904-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/MokshJain0904">
-<img src="https://img.shields.io/badge/GitHub-MokshJain0904-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/moksh-jain-559189330/">
-<img src="https://img.shields.io/badge/LinkedIn-Moksh%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MokshJain0904">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MokshJain0904&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-
-<a href="https://github.com/MokshJain0904?tab=followers">
-<img src="https://img.shields.io/github/followers/MokshJain0904?label=FOLLOWERS&style=for-the-badge&color=4C1D95" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/MokshJain0904?tab=stars">
-<img src="https://img.shields.io/github/stars/MokshJain0904?label=STARS&style=for-the-badge&color=6D28D9" alt="GitHub Stars"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=MokshJain0904&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/MokshJain0904?label=FOLLOWERS&style=for-the-badge&color=4C1D95" />
+<img src="https://img.shields.io/github/stars/MokshJain0904?label=STARS&style=for-the-badge&color=6D28D9" />
 
 </div>
 
@@ -68,7 +48,11 @@ My engineering mindset is centered around:
 
 ### Open To
 
+<div align="center">
+
 `Software Engineering` `Full Stack Development` `AI/ML` `Backend Development` `Open Source` `Hackathons` `Technical Collaborations` `Internships`
+
+</div>
 
 ---
 
@@ -76,27 +60,27 @@ My engineering mindset is centered around:
 
 ### Languages
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
-</p>
+</div>
 
 ### Frontend
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
+</div>
 
 ### Backend & Databases
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+</div>
 
 ### Cloud, DevOps & Tooling
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" />
-</p>
+</div>
 
 ---
 
@@ -117,10 +101,9 @@ My engineering mindset is centered around:
 
 ## Featured Projects
 
-<details>
-<summary><strong>SwiftCart — MERN E-Commerce Platform</strong></summary>
-
-### SwiftCart
+<details open>
+<summary><b>SwiftCart — MERN E-Commerce Platform</b></summary>
+<br/>
 
 A full-stack e-commerce application developed using the MERN stack to understand modern web application architecture, frontend development, backend APIs, databases and complete product workflows.
 
@@ -129,29 +112,28 @@ A full-stack e-commerce application developed using the MERN stack to understand
 | **Stack** | MongoDB, Express.js, React.js, Node.js, JavaScript |
 | **Scale** | Full-stack e-commerce application |
 | **Performance** | Component-based frontend and API-driven architecture |
-| **Security** | Authentication, authorization and server-side validation |
+| **Security** | JWT authentication, bcryptjs password hashing and server-side validation |
 | **Impact** | Practical implementation of full-stack software engineering concepts |
-| **Repository** | [GitHub Profile](https://github.com/MokshJain0904) |
+| **Repository** | [E-Commerce](https://github.com/MokshJain0904/E-Commerce) |
 
 **Professional project scope**
 
-- Designed a modern e-commerce frontend using React
+- Designed a modern e-commerce frontend using React with category browsing, instant search and a responsive cart drawer
 - Implemented reusable UI components and navigation
 - Structured the application around frontend, backend and database layers
-- Developed REST API concepts using Node.js and Express
-- Used MongoDB for persistent application data
-- Implemented product-oriented application workflows
-- Explored authentication and authorization concepts
+- Developed modular REST API routes using Node.js and Express
+- Used MongoDB with Mongoose schemas for persistent application data
+- Implemented product-oriented checkout workflows including a mock multi-channel payment gateway
+- Implemented JWT-based authentication and bcryptjs password hashing
 - Focused on maintainable component and API architecture
 
-**Skills:** `React` `Node.js` `Express` `MongoDB` `JavaScript` `REST API` `Full Stack`
+**Skills:** `React` `Node.js` `Express` `MongoDB` `JavaScript` `REST API` `JWT` `Full Stack`
 
 </details>
 
 <details>
-<summary><strong>AI & Intelligent Systems Projects</strong></summary>
-
-### AI & Intelligent Systems
+<summary><b>AI & Intelligent Systems</b></summary>
+<br/>
 
 A collection of academic and experimental projects exploring artificial intelligence concepts including **LLMs, NLP, RAG, reasoning, planning, automation and intelligent agents**.
 
@@ -180,9 +162,8 @@ A collection of academic and experimental projects exploring artificial intellig
 </details>
 
 <details>
-<summary><strong>Data Analytics & Business Intelligence</strong></summary>
-
-### Data Analytics & BI
+<summary><b>Data Analytics & BI</b></summary>
+<br/>
 
 Data analytics projects combining Python preprocessing, exploratory analysis, visualization and Power BI dashboards to convert raw datasets into meaningful insights.
 
@@ -211,9 +192,8 @@ Data analytics projects combining Python preprocessing, exploratory analysis, vi
 </details>
 
 <details>
-<summary><strong>PrivaGuard — Application Privacy Analyzer</strong></summary>
-
-### PrivaGuard
+<summary><b>PrivaGuard — Application Privacy Analyzer</b></summary>
+<br/>
 
 A TypeScript-based application privacy analysis project focused on understanding application permissions and presenting privacy-related insights.
 
@@ -231,9 +211,8 @@ A TypeScript-based application privacy analysis project focused on understanding
 </details>
 
 <details>
-<summary><strong>Smart Travel Analytics & BI Dashboard</strong></summary>
-
-### Smart Travel Analytics & BI Dashboard
+<summary><b>Smart Travel Analytics & BI Dashboard</b></summary>
+<br/>
 
 A hotel booking analytics project focused on analyzing booking behavior, cancellations and revenue-related business insights.
 
@@ -251,9 +230,8 @@ A hotel booking analytics project focused on analyzing booking behavior, cancell
 </details>
 
 <details>
-<summary><strong>Generative AI Prompt Intelligence & Analytics System</strong></summary>
-
-### Generative AI Prompt Intelligence & Analytics System
+<summary><b>Generative AI Prompt Intelligence & Analytics System</b></summary>
+<br/>
 
 A data-mining project focused on analyzing Generative AI prompts and extracting meaningful patterns using Python-based analytics and machine-learning techniques.
 
@@ -264,16 +242,15 @@ A data-mining project focused on analyzing Generative AI prompts and extracting 
 | **Performance** | Structured preprocessing and reusable analytical pipelines |
 | **Security** | Controlled dataset processing |
 | **Impact** | Converts AI interaction data into analytical insights |
-| **Repository** | [Generative-Al-Prompt-Intelligence-Analytics-System](https://github.com/MokshJain0904/Generative-Al-Prompt-Intelligence-Analytics-System) |
+| **Repository** | [Generative-AI-Prompt-Intelligence-Analytics-System](https://github.com/MokshJain0904/Generative-Al-Prompt-Intelligence-Analytics-System) |
 
 **Skills:** `Python` `Pandas` `NumPy` `NLP` `Machine Learning` `Data Mining`
 
 </details>
 
 <details>
-<summary><strong>Node.js Bootcamp</strong></summary>
-
-### Node.js Bootcamp
+<summary><b>Node.js Bootcamp</b></summary>
+<br/>
 
 A practical repository containing hands-on learning and experimentation with JavaScript and Node.js backend development.
 
@@ -291,9 +268,8 @@ A practical repository containing hands-on learning and experimentation with Jav
 </details>
 
 <details>
-<summary><strong>campusDeal</strong></summary>
-
-### campusDeal
+<summary><b>campusDeal</b></summary>
+<br/>
 
 A frontend web-development project focused on implementing practical HTML and CSS concepts.
 
@@ -315,8 +291,7 @@ A frontend web-development project focused on implementing practical HTML and CS
 ## Experience
 
 ### Software Engineering & AI Development
-
-**Academic & Independent Projects**  
+**Academic & Independent Projects**
 `2024 — Present`
 
 Developing practical projects across software engineering, full-stack development, artificial intelligence and data analytics while strengthening core programming and problem-solving abilities.
@@ -337,9 +312,7 @@ Developing practical projects across software engineering, full-stack developmen
 - Use Git and GitHub for version control
 - Apply software engineering principles to academic and personal projects
 
-**Skills**
-
-`Java` `Python` `C` `JavaScript` `React` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `AI/ML` `NLP` `Power BI`
+**Skills:** `Java` `Python` `C` `JavaScript` `React` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `AI/ML` `NLP` `Power BI`
 
 ---
 
@@ -364,28 +337,16 @@ Developing practical projects across software engineering, full-stack developmen
 ## Certifications
 
 ### AWS
-
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Certification-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-Certification-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 
 ### Oracle
-
-<a href="https://education.oracle.com/oracle-certification">
-<img src="https://img.shields.io/badge/Oracle-Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Oracle-Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### NPTEL
-
-<a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Certification-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/NPTEL-Certification-4C1D95?style=for-the-badge&logo=academia&logoColor=white" />
 
 ### Cisco
-
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
-<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
 ---
 
@@ -393,21 +354,10 @@ Developing practical projects across software engineering, full-stack developmen
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
@@ -417,23 +367,21 @@ Developing practical projects across software engineering, full-stack developmen
 
 <div align="center">
 
-<img src="./profile/github-stats.svg" height="180" alt="Moksh Jain GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MokshJain0904&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=94A3B8&ring_color=7C3AED" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=MokshJain0904&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=MokshJain0904&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180" alt="Moksh Jain GitHub Streak"/>
+<br/>
 
-<br/><br/>
-
-<img src="./profile/top-languages.svg" height="180" alt="Moksh Jain Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MokshJain0904&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=94A3B8" width="48%" />
 
 </div>
+
 ---
 
 ## GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MokshJain0904&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Moksh Jain GitHub Trophies"/>
-
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=MokshJain0904&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 ---
@@ -441,9 +389,7 @@ Developing practical projects across software engineering, full-stack developmen
 ## Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MokshJain0904&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Moksh%20Jain%20Contribution%20Activity" width="95%" alt="Moksh Jain Contribution Activity"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MokshJain0904&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Moksh%20Jain%20Contribution%20Activity" width="100%" />
 </div>
 
 ---
@@ -451,26 +397,7 @@ Developing practical projects across software engineering, full-stack developmen
 ## Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake.svg"
-    alt="Moksh Jain GitHub Contribution Snake"
-    width="95%"
-  />
-
-</picture>
-
+<img src="https://raw.githubusercontent.com/MokshJain0904/MokshJain0904/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
@@ -512,3 +439,27 @@ Open To:
   - Hackathons
   - Technical Projects
   - Internships
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:mokshjain2026@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/moksh-jain-559189330/"><img src="https://img.shields.io/badge/LinkedIn-Moksh%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/MokshJain0904"><img src="https://img.shields.io/badge/GitHub-MokshJain0904-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/MokshJain0904"><img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering thoughtful software, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:312e81,70:4c1d95,100:7c3aed&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
